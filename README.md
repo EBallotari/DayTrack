@@ -4,6 +4,10 @@ DayTrack é um aplicativo para organização pessoal. O usuário poderá adicion
 
 O aplicativo será feito utilizando a framework Ionic, e apresentará uma interface fácil e moderna.
 
+# Integrantes
+
+DayTrack será desenvolvido por Eduardo Bolotari, Gabriel Fiori e Vinícius Portes.
+
 # Protótipo
 
 ![Alt Text](https://i.imgur.com/IwIlSOt.jpeg)
