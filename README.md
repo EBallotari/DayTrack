@@ -10,5 +10,6 @@ DayTrack será desenvolvido por Eduardo Bolotari, Gabriel Fiori e Vinícius Port
 
 # Protótipo
 
-![Alt Text](https://i.imgur.com/IwIlSOt.jpeg)
+![Alt Text](https://i.imgur.com/UkPq9Fb.jpg)
 ![Alt Text](https://i.imgur.com/nSUuJnG.jpeg)
+![Alt Text](https://i.imgur.com/1R01vN4.jpg)
